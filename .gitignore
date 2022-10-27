@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 build/
 =======
 doc/html
@@ -6,3 +7,6 @@ doc/latex
 bin
 build
 >>>>>>> origin/unknown_features
+=======
+bin/
+>>>>>>> myFeature
